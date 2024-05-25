@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754681952628",
+    "project_id": "mobile-cd210",
+    "storage_bucket": "mobile-cd210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754681952628:android:3f98447d65a81394a59421",
+        "android_client_info": {
+          "package_name": "com.example.lingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQRqpOBDt5nHhRkrrQXdyWIzyH_g093EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
